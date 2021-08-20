@@ -685,9 +685,9 @@ void update(int value)
         }
     }
 
-    if(score > 2000)
+    if(score == 2000)
     {
-        gameLevel++;
+        gameLevel = 2;
         score += 200;
     }
 
