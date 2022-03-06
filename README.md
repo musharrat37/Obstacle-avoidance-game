@@ -4,4 +4,6 @@ The objective of the game is to stay alive by avoiding obstacles which are the g
 Each hit with an obstacle will cost life and the life bar at the top-left corner will indicate when life points are too low.
 The game ends when life score becomes zero.
 
+![game snapshot](/3.JPG)
+
 There are currently 2 levels to the game and it is still under development.
